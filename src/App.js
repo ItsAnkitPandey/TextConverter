@@ -42,7 +42,7 @@ function App() {
   return (
     <>
       {/* <Router> */}
-      <Navbar title="Ankit" aboutText="About" mode={mode} toggleMode={toggleMode} />
+      <Navbar title="TextConverter" aboutText="About" mode={mode} toggleMode={toggleMode} />
       <Alert alert={alert} />
       <div className="container">
 
