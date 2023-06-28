@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-# Live on https//:moviesummary.netlify.app
+# Live on [MovieSummary](https://moviesummary.netlify.app)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
